@@ -15,3 +15,9 @@
 
 ### Github Repository
 Περιέχει τα αρχεία σχολιασμένα. [Κώδικες](https://github.com/konstantinadeliveri/ttsnsprecproj/tree/main/public)
+
+### Youtube Video
+[Video]
+
+### Web App URL
+[Website Url](https://ttsnsprecproj.oa.r.appspot.com/)
