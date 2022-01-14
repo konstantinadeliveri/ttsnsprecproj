@@ -14,4 +14,4 @@
 Ολοκλήρωση εφαρμογής, αντιμετώπιση προβλημάτων σχετικά με το pdf parsing, δημιουργία Chatbot(σωστό) με τη χρήση του dialogflow και προσθήκη στην ιστοσελίδα μου. Σχολιασμός κώδικα και ανέβασμα στο Github, δημιουργία Youtube βίντεο, ανέβασμα του Web App online.
 
 ### Github Repository
-Περιέχει τα αρχεία σχολιασμένα. [Κώδικες](https://github.com/konstantinadeliveri/)
+Περιέχει τα αρχεία σχολιασμένα. [Κώδικες](https://github.com/konstantinadeliveri/ttsnsprecproj/tree/main/public)
