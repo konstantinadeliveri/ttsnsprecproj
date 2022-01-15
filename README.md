@@ -17,7 +17,7 @@
 Περιέχει τα αρχεία σχολιασμένα. [Κώδικες](https://github.com/konstantinadeliveri/ttsnsprecproj/tree/main/public)
 
 ### Youtube Video
-[Video]
+[Video](https://www.youtube.com/watch?v=b097CP39HJg)
 
 ### Web App URL
 [Website Url](https://ttsnsprecproj.oa.r.appspot.com/)
