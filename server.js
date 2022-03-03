@@ -38,8 +38,8 @@ app.post("/extract_text", (req, res) =>{
   });
 });
 
-//app.use(express.json()); //recognize the incoming Request Object as a JSON Object(body parser for post request except html)
-//app.use(express.urlencoded({ extended: true }));//recognize the incoming Request Object as strings or arrays.(body parser for html)
+app.use(express.json()); //recognize the incoming Request Object as a JSON Object(body parser for post request except html)
+app.use(express.urlencoded({ extended: true }));//recognize the incoming Request Object as strings or arrays.(body parser for html)
 
 
 /**(en): on this route dialogflow sends the webhook request
@@ -51,7 +51,7 @@ app.post("/extract_text", (req, res) =>{
 app.post("/webhook", (req, res) => {
 
   // get agent from request
-  let agent = new dlf.WebhookClient({request: req, respense: res});
+  let agent = new dlf.WebhookClient({request: req, response: res});
 
   function movieIntent(agent) {
     agent.add("10 Things I hate about you, I heard is a really romantic movie");
